@@ -46,7 +46,9 @@ function createTemplate(data){
              ${heading}
              </h3>
              <p>
-             ${content}
+             ${content}<br/>
+             <hr/>
+             yipeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
              </p>
          </body>
      </html>
