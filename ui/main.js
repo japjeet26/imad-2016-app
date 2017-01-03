@@ -7,5 +7,5 @@ maadi.onclick = function(){
 var marginLeft=0;
 function moveRight(){
     marginLeft=marginLeft+10;
-    img.style.marginLeft= marginLeft + 'px' ;
+    maadi.style.marginLeft= marginLeft + 'px' ;
 }
